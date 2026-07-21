@@ -8,6 +8,10 @@ from pathlib import Path
 from pypdf import PdfReader
 from docx import Document
 from tabulate import tabulate
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Initialize OpenAI client (automatically uses OPENAI_API_KEY and OPENAI_API_BASE)
 client = OpenAI()
