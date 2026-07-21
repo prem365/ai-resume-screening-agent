@@ -1,0 +1,18 @@
+Name: Alice Smith
+Email: alice.smith@email.com
+Education: MS in Artificial Intelligence, Stanford University
+
+Skills:
+- Python, PyTorch, TensorFlow
+- LLM fine-tuning, RAG pipelines
+- Vector databases (ChromaDB, Pinecone)
+- NLP (spaCy, HuggingFace)
+
+Experience:
+AI Research Intern at TechCorp (6 months)
+- Developed a RAG-based chatbot for internal documentation.
+- Optimized prompt engineering for GPT-4 models.
+- Conducted benchmarking for different embedding models.
+
+Project:
+Built an autonomous agent that summarizes research papers using LangChain and OpenAI.

@@ -1,0 +1,69 @@
+[
+    {
+        "candidate_name": "Alice Smith",
+        "relevance_score": 90,
+        "extracted_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "LLM fine-tuning",
+            "Prompt engineering (GPT-4)",
+            "RAG pipelines",
+            "Vector databases (ChromaDB, Pinecone)",
+            "NLP (spaCy, HuggingFace)",
+            "LangChain",
+            "OpenAI API",
+            "Embedding model benchmarking",
+            "Data cleaning/preprocessing (implied from RAG and evaluation work)"
+        ],
+        "years_of_experience": 0.5,
+        "education": "MS in Artificial Intelligence, Stanford University",
+        "reasoning": "Strong match for the Junior AI Research Associate role: advanced degree in AI, direct experience building RAG systems, hands-on work with vector DBs (ChromaDB, Pinecone), prompt engineering for GPT-4, and NLP/transformer toolkits. Project work (autonomous agent using LangChain/OpenAI) demonstrates independent prototyping ability. Score reduced slightly because professional experience is limited to a 6-month internship and explicit technical writing/documentation experience is not detailed.",
+        "filename": "candidate_1.txt"
+    },
+    {
+        "candidate_name": "Charlie Brown",
+        "relevance_score": 85,
+        "extracted_skills": [
+            "Advanced NLP",
+            "Transformers",
+            "BERT",
+            "Python",
+            "R",
+            "Julia",
+            "Deep Learning",
+            "Reinforcement Learning",
+            "Technical Writing",
+            "Research",
+            "Attention mechanisms",
+            "Multi-agent systems",
+            "Academic publishing"
+        ],
+        "years_of_experience": 3,
+        "education": "PhD in Computational Linguistics, MIT",
+        "reasoning": "Strong fit: PhD in Computational Linguistics, solid research background, proven technical writing (publications, best paper), proficiency in Python and Transformers/BERT, and deep learning expertise match core JD requirements. Gaps: resume does not explicitly mention experience with LLM APIs (GPT/Claude), prompting techniques (CoT, few-shot), RAG pipelines, vector databases, or data cleaning for evaluation \u2014 all important for the role. High score due to strong NLP/transformer research experience and documentation skills, adjusted down for missing explicit applied RAG/LLM engineering experience.",
+        "filename": "candidate_3.txt"
+    },
+    {
+        "candidate_name": "Bob Jones",
+        "relevance_score": 35,
+        "extracted_skills": [
+            "Python",
+            "Java",
+            "C++",
+            "React",
+            "Node.js",
+            "SQL",
+            "PostgreSQL",
+            "Scikit-learn (basic ML)",
+            "Web application development",
+            "API integration",
+            "Database migrations and optimization",
+            "Interest in Generative AI and prompt engineering"
+        ],
+        "years_of_experience": 2,
+        "education": "BS in Computer Science, University of Texas",
+        "reasoning": "Bob meets the baseline education requirement and has Python experience and basic ML exposure (scikit-learn). However, his professional experience (2 years) is focused on web development and backend engineering rather than NLP/LLM work. He lacks demonstrated experience with LLMs and their APIs, NLP libraries (spaCy, NLTK, Transformers), RAG or vector databases, and applied prompting techniques. Positive indicators: solid software engineering foundation, SQL skills, and stated interest in generative AI. Given the gap in direct LLM/NLP and RAG experience required for the role, the candidate is a low-to-moderate fit for a junior AI research position but could be considered if the team is willing to train a strong software engineer with interest in AI.",
+        "filename": "candidate_2.txt"
+    }
+]

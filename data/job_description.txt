@@ -1,0 +1,24 @@
+Job Title: Junior AI Research Associate
+Company: Rooman Technologies
+Location: Remote / Bangalore, India
+
+About the Role:
+We are looking for a Junior AI Research Associate to help us design, build, and test next-generation AI agents. You will work closely with our senior research team to implement RAG pipelines, evaluate LLM performance, and build prototypes for various industry use cases.
+
+Key Responsibilities:
+- Design and implement AI agents using Python and popular LLM frameworks.
+- Experiment with different prompting techniques (Chain-of-Thought, Few-Shot, etc.).
+- Build and maintain RAG (Retrieval-Augmented Generation) systems using vector databases.
+- Clean and preprocess messy datasets for model evaluation.
+- Document research findings and technical implementations.
+
+Required Skills:
+- Proficiency in Python programming.
+- Understanding of LLMs (GPT, Claude, etc.) and their APIs.
+- Experience with NLP libraries like spaCy, NLTK, or Transformers.
+- Familiarity with vector databases (Pinecone, Chroma, etc.) is a plus.
+- Strong problem-solving skills and ability to work independently.
+- Excellent technical writing and documentation skills.
+
+Education:
+- Bachelor's or Master's degree in Computer Science, AI, Data Science, or a related field.

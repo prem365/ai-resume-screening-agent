@@ -1,0 +1,18 @@
+Name: Bob Jones
+Email: bob.jones@email.com
+Education: BS in Computer Science, University of Texas
+
+Skills:
+- Python, Java, C++
+- Web Development (React, Node.js)
+- SQL, PostgreSQL
+- Basic Machine Learning (Scikit-learn)
+
+Experience:
+Software Engineer at WebSolutions (2 years)
+- Built scalable web applications using React and Node.js.
+- Managed database migrations and optimized SQL queries.
+- Integrated third-party APIs for payment processing.
+
+Interests:
+Learning about Generative AI and prompt engineering.

@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pandas
+pypdf
+python-docx
+tabulate
